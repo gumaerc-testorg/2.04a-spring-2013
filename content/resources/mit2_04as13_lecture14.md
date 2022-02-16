@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 14.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-04a-systems-and-controls-spring-2013/0ed7334f295837fe983a9218e39473a3_MIT2_04AS13_Lecture14.pdf
+file: /media/courses/2-04a-systems-and-controls-spring-2013/0ed7334f295837fe983a9218e39473a3_MIT2_04AS13_Lecture14.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lectures & Labs
+parent_type: CourseSection
 resourcetype: Document
 title: "2.04A Lecture Notes \u2013 Lecture 14"
 uid: 0ed7334f-2958-37fe-983a-9218e39473a3

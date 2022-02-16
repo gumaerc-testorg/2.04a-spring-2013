@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding quiz1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-04a-systems-and-controls-spring-2013/80f0051aa7b666d955e87ef323f05807_MIT2_04AS13_Quiz1.pdf
+file: /media/courses/2-04a-systems-and-controls-spring-2013/80f0051aa7b666d955e87ef323f05807_MIT2_04AS13_Quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 2.04A Systems and Controls, Quiz 1
 uid: 80f0051a-a7b6-66d9-55e8-7ef323f05807

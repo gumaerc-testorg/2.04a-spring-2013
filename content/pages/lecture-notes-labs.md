@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lectures & Labs
 uid: 48e3d26a-5c3b-a400-486b-434949ef2235
 ---
@@ -47,7 +49,7 @@ From the physical model to the ordinary differential equation (ODE)
 2
 {{< tdclose >}}
 {{< tdopen >}}
-1st and 2nd order system behavior (from the ODE)
+1{{< sup "st" >}} and 2{{< sup "nd" >}} order system behavior (from the ODE)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 2 Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_04as13_lecture2)
@@ -125,7 +127,7 @@ The DC motor and its dynamics
 7
 {{< tdclose >}}
 {{< tdopen >}}
-1st and 2nd order system characteristics: theory
+1{{< sup "st" >}} and 2{{< sup "nd" >}} order system characteristics: theory
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 7 Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_04as13_lecture7)
@@ -137,7 +139,7 @@ The DC motor and its dynamics
 8
 {{< tdclose >}}
 {{< tdopen >}}
-1st and 2nd order systems: observation on the flywheel
+1{{< sup "st" >}} and 2{{< sup "nd" >}} order systems: observation on the flywheel
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 8 (+ Lab) Slides (PDF)]({{< baseurl >}}/resources/mit2_04as13_lecture8)
@@ -151,7 +153,7 @@ The DC motor and its dynamics
 {{< tdopen >}}
 
 
-Feedback TF, MATLAB© LTI, and SISO tools
+Feedback TF, MATLAB{{< sup "©" >}} LTI, and SISO tools
 
 Root locus (concept and observation)
 
