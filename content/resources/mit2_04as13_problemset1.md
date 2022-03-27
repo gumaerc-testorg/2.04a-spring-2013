@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cc3b036f-f8a8-eb54-35bb-e847a05325c5
 resourcetype: Document
 title: 2.04A Systems and Controls, Problem Set 1
 uid: 58bc4332-2a22-53e2-d825-793381e0688a

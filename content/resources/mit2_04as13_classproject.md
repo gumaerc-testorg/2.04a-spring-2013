@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures & Labs
 parent_type: CourseSection
+parent_uid: 48e3d26a-5c3b-a400-486b-434949ef2235
 resourcetype: Document
 title: 2.04A Description of the Class Project
 uid: 1231ee4b-3930-21d0-ddac-a12281433c03

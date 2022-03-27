@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures & Labs
 parent_type: CourseSection
+parent_uid: 48e3d26a-5c3b-a400-486b-434949ef2235
 resourcetype: Document
 title: "2.04A Lecture Notes \u2013 Lecture 4"
 uid: 9bb1ead7-9075-764d-ff20-5944e9623a6a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a1ad574c-b046-7665-942f-58472e8ae01f
 resourcetype: Document
 title: 2.04A Systems and Controls, Practice Problem 2
 uid: 1a3a55be-0b14-8d04-86b3-edc5c452de54

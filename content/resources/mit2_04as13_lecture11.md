@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures & Labs
 parent_type: CourseSection
+parent_uid: 48e3d26a-5c3b-a400-486b-434949ef2235
 resourcetype: Document
 title: "2.04A Lecture Notes \u2013 Lecture 11"
 uid: b9cbad1b-4e35-e1a4-3440-442698719dc6
