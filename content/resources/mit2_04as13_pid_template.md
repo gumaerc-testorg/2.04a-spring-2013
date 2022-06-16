@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This is a special file related to matlab template.\r\n"
-file: /media/courses/2-04a-systems-and-controls-spring-2013/afc613357c77ece9ed4350c6fe281cc3_MIT2_04AS13_PID_template.m
+file: /courses/2-04a-systems-and-controls-spring-2013/afc613357c77ece9ed4350c6fe281cc3_MIT2_04AS13_PID_template.m
 file_type: text/x-objcsrc
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,6 @@ resourcetype: Other
 title: MIT2_04AS13_PID_template.m
 uid: afc61335-7c77-ece9-ed43-50c6fe281cc3
 ---
+This is a special file related to matlab template.
+
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites and corequisites, the textbook, concepts covered
+  in the course, learning objectives, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -43,7 +46,7 @@ Nise, Norman S. _Control Systems Engineering_. John Wiley & Sons, 2010. ISBN: 97
 Concepts Covered in the Course
 ------------------------------
 
-This is a list of [concepts covered in this course (PDF)]({{< baseurl >}}/resources/mit2_04as13_conceptslist). Please use this as a checklist on concepts to guide your study.
+This is a list of {{% resource_link 1cd5fe9e-7d57-17e6-93dc-ad586158c439 "concepts covered in this course (PDF)" %}}. Please use this as a checklist on concepts to guide your study.
 
 Learning Objectives
 -------------------
