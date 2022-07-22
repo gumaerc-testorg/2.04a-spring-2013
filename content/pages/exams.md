@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the first quiz of the course, practice problems
+  for quizzes, and information on quiz grading.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: a1ad574c-b046-7665-942f-58472e8ae01f
 ---
@@ -19,10 +24,10 @@ PRACTICE PROBLEMS (WITH SOLUTIONS)
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_04as13_quiz1)
+{{% resource_link 80f0051a-a7b6-66d9-55e8-7ef323f05807 "Quiz 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Practice Problems 1 (PDF)]({{< baseurl >}}/resources/mit2_04as13_practproblem1)
+{{% resource_link 5242292a-ca7e-37ed-3a53-10369186f971 "Practice Problems 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +36,7 @@ PRACTICE PROBLEMS (WITH SOLUTIONS)
 Quiz 2 (Not available)
 {{< tdclose >}}
 {{< tdopen >}}
-[Practice Problems 2 (PDF)]({{< baseurl >}}/resources/mit2_04as13_practproblem2)
+{{% resource_link 1a3a55be-0b14-8d04-86b3-edc5c452de54 "Practice Problems 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
