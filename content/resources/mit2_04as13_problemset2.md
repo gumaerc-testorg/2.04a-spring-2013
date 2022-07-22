@@ -5,6 +5,7 @@ file: /courses/2-04a-systems-and-controls-spring-2013/0556c7a3256c54887ea160186e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.04A Systems and Controls, Problem Set 2
 uid: 0556c7a3-256c-5488-7ea1-60186e511958
 ---
 This file contains information regarding problem set 2.
-
