@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding supplement to lecture 10.
 file: /courses/2-04a-systems-and-controls-spring-2013/3d68a83a79cca5373cda1d5f64f4059e_MIT2_04AS13_SuppLecture10.pdf
+file_size: 458944
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
