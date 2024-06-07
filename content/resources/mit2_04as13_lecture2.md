@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 2.
 file: /courses/2-04a-systems-and-controls-spring-2013/f6b996318ec6783d789ee3bc6f6e0358_MIT2_04AS13_Lecture2.pdf
+file_size: 1187325
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
