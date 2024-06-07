@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding description of the class project.
 file: /courses/2-04a-systems-and-controls-spring-2013/1231ee4b393021d0ddaca12281433c03_MIT2_04AS13_ClassProject.pdf
+file_size: 2120545
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

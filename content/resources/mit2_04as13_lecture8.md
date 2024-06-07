@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 8.
 file: /courses/2-04a-systems-and-controls-spring-2013/98152eb57bf43e35d11c0696d6a2c329_MIT2_04AS13_Lecture8.pdf
+file_size: 993515
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

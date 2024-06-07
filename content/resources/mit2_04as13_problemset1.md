@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 1.
 file: /courses/2-04a-systems-and-controls-spring-2013/58bc43322a2253e2d825793381e0688a_MIT2_04AS13_ProblemSet1.pdf
+file_size: 195774
 file_type: application/pdf
 learning_resource_types:
 - Assignments
