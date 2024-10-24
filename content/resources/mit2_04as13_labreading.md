@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lab reading: rotational plant.'
-file: /courses/2-04a-systems-and-controls-spring-2013/4c15b0fa02de2db68b5962ef66885ab8_MIT2_04AS13_LabReading.pdf
+file: /ol-ocw-studio-app/courses/2-04a-systems-and-controls-spring-2013/4c15b0fa02de2db68b5962ef66885ab8_MIT2_04AS13_LabReading.pdf
 file_size: 304982
 file_type: application/pdf
 learning_resource_types: []
