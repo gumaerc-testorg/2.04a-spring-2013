@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding concept list.
-file: /courses/2-04a-systems-and-controls-spring-2013/1cd5fe9e7d5717e693dcad586158c439_MIT2_04AS13_conceptslist.pdf
+file: /ol-ocw-studio-app/courses/2-04a-systems-and-controls-spring-2013/1cd5fe9e7d5717e693dcad586158c439_MIT2_04AS13_conceptslist.pdf
 file_size: 73478
 file_type: application/pdf
 learning_resource_types: []
