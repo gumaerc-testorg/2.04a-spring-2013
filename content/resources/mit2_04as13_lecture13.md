@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 13.
-file: /ol-ocw-studio-app/courses/2-04a-systems-and-controls-spring-2013/a571cf1a1d65616c6dd38b80424d3ba1_MIT2_04AS13_Lecture13.pdf
+file: /courses/2-04a-systems-and-controls-spring-2013/a571cf1a1d65616c6dd38b80424d3ba1_MIT2_04AS13_Lecture13.pdf
 file_size: 2582867
 file_type: application/pdf
 learning_resource_types: []
