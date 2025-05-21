@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding quiz1.
-file: /ol-ocw-studio-app/courses/2-04a-systems-and-controls-spring-2013/80f0051aa7b666d955e87ef323f05807_MIT2_04AS13_Quiz1.pdf
+file: /courses/2-04a-systems-and-controls-spring-2013/80f0051aa7b666d955e87ef323f05807_MIT2_04AS13_Quiz1.pdf
 file_size: 196365
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 2.
-file: /ol-ocw-studio-app/courses/2-04a-systems-and-controls-spring-2013/0556c7a3256c54887ea160186e511958_MIT2_04AS13_ProblemSet2.pdf
+file: /courses/2-04a-systems-and-controls-spring-2013/0556c7a3256c54887ea160186e511958_MIT2_04AS13_ProblemSet2.pdf
 file_size: 379756
 file_type: application/pdf
 learning_resource_types:
